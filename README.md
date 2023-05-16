@@ -1,1 +1,7 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Repositorio resolución Challenge
+
+Tecnologías utilizadas:
+-Typescript
+-NextJS
+-React Redux (toolkit)
+-Material UI
